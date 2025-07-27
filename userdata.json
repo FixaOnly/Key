@@ -18,6 +18,12 @@
         "Allowoffline": true
     },
     {
+        "device_id": "cb06814e9f82e28d",
+        "key": "5DAY",
+        "expirydate": "02-07-2025",
+        "Allowoffline": true
+    },
+    {
         "device_id": "device456",
         "key": "key67890",
         "expirydate": "15-06-2025",
