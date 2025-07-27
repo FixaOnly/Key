@@ -30,6 +30,12 @@
         "Allowoffline": true
     },
     {
+        "device_id": "0526f5bb5c548e1e",
+        "key": "FIXA-XX2",
+        "expirydate": "07-08-2025",
+        "Allowoffline": true
+    },
+    {
         "device_id": "device456",
         "key": "key67890",
         "expirydate": "15-06-2025",
