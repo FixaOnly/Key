@@ -46,5 +46,11 @@
     "key": "FIXA-88045",
     "expirydate": "02-08-2025",
     "Allowoffline": true
+  },
+  {
+    "key": "FIXA-ICC09",
+    "device_id": "",
+    "expirydate": "30-07-2025",
+    "reseller": "reseller1"
   }
 ]
