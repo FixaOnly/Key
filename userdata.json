@@ -76,5 +76,11 @@
     "key": "FIXA-39068",
     "expirydate": "03-08-2025",
     "Allowoffline": true
+  },
+  {
+    "device_id": "c88cc49a1eecad39",
+    "key": "FIXA-48397",
+    "expirydate": "24-04-2028",
+    "Allowoffline": true
   }
 ]
