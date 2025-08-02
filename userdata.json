@@ -142,5 +142,11 @@
     "key": "FIXA-35239",
     "expirydate": "04-08-2025",
     "Allowoffline": true
+  },
+  {
+    "device_id": "db51f2cef72244f8",
+    "key": "FIXA-22005",
+    "expirydate": "07-08-2025",
+    "Allowoffline": true
   }
 ]
