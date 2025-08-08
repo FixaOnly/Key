@@ -1,11 +1,5 @@
 [
   {
-    "device_id": "22318ff58e60676a",
-    "key": "FIXA-17488",
-    "expirydate": "31-07-2025",
-    "Allowoffline": true
-  },
-  {
     "device_id": "b9ff2e795aef1e7b",
     "key": "FIXA-31843",
     "expirydate": "01-08-2025",
