@@ -6,21 +6,9 @@
     "Allowoffline": true
   },
   {
-    "device_id": "ddb8f16f42d52bfd",
-    "key": "FIXA-74556",
-    "expirydate": "02-08-2025",
-    "Allowoffline": true
-  },
-  {
     "device_id": "b9ff2e795aef1e7b",
     "key": "FIXA-31843",
     "expirydate": "01-08-2025",
-    "Allowoffline": true
-  },
-  {
-    "device_id": "f1c0e195334b66c2",
-    "key": "FIXA-14216",
-    "expirydate": "02-08-2025",
     "Allowoffline": true
   },
   {
