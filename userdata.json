@@ -226,5 +226,11 @@
     "key": "FIXA-PANEL-80548",
     "expirydate": "28-08-2025",
     "Allowoffline": true
+  },
+  {
+    "device_id": "d0c4a16c03d96174",
+    "key": "FIXA-PANEL-75853",
+    "expirydate": "26-08-2025",
+    "Allowoffline": true
   }
 ]
