@@ -1,17 +1,14 @@
 [
-  {
-    "id": "abbd92b1-3154-4e72-9969-e88f13c125a6",
-    "device_id": "device123",
-    "key": "key12345",
-    "expirydate": "31-12-2025",
-    "Allowoffline": true
-  },
-  {
-    "id": "044253a0-37a1-4202-85b5-5a6ac529d58c",
-    "device_id": "c88cc49a1eecad39",
-    "key": "FIXA-CHIKO-48507",
-    "expirydate": "02-09-2025",
-    "Allowoffline": true,
-    "created": "2025-08-29T22:10:52.674Z"
-  }
+    {
+        "device_id": "device123",
+        "key": "key12345",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "device456",
+        "key": "key67890",
+        "expirydate": "15-06-2025",
+        "Allowoffline": false
+    }
 ]
