@@ -364,5 +364,11 @@
     "key": "FIXA-CHIKO-91069",
     "expirydate": "06-12-2025",
     "Allowoffline": true
+  },
+  {
+    "device_id": "a595678d6ba192ef",
+    "key": "FIXA-CHIKO-99208",
+    "expirydate": "06-12-2025",
+    "Allowoffline": true
   }
 ]
