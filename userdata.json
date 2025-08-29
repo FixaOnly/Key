@@ -286,5 +286,11 @@
     "key": "FIXA-CHIKO-94615",
     "expirydate": "30-08-2025",
     "Allowoffline": true
+  },
+  {
+    "device_id": "Oppo a60",
+    "key": "FIXA-CHIKO-39598",
+    "expirydate": "30-08-2025",
+    "Allowoffline": true
   }
 ]
