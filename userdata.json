@@ -10,5 +10,11 @@
     "key": "FIXA-CHIKO-60045",
     "expirydate": "02-09-2025",
     "Allowoffline": true
+  },
+  {
+    "device_id": "abcc5c8840f5ca8a",
+    "key": "SHADOW-MODS-39293",
+    "expirydate": "04-09-2025",
+    "Allowoffline": true
   }
 ]
