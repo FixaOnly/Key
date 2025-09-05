@@ -34,5 +34,11 @@
     "key": "SHADOW-MODS-12375",
     "expirydate": "30-09-29404",
     "Allowoffline": true
+  },
+  {
+    "device_id": "724fcf1ed4a04ec5",
+    "key": "SHADOW-MODS-74570",
+    "expirydate": "NaN-NaN-NaN",
+    "Allowoffline": true
   }
 ]
