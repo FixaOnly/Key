@@ -130,5 +130,11 @@
     "key": "SHADOW-MODS-19990",
     "expirydate": "09-09-2025",
     "Allowoffline": true
+  },
+  {
+    "device_id": "FIXA-FD74-487164",
+    "key": "SHADOW-MODS-36476",
+    "expirydate": "09-09-2025",
+    "Allowoffline": true
   }
 ]
