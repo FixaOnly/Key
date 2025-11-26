@@ -139,6 +139,19 @@
       "notify": true,
       "value": "1h",
       "toast": "ð Reseller Access Granted"
+    },
+    "Fixa": {
+      "type": "duration",
+      "interval": "1d",
+      "notify": true,
+      "value": "1h",
+      "toast": "halo"
+    },
+    "KEY_B7OZ": {
+      "type": "duration",
+      "interval": "1d",
+      "notify": true,
+      "value": "1d"
     }
   }
 }
