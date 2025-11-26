@@ -10,7 +10,7 @@
     "subtitle": "If you don't have a key, contact Admin. Otherwise, enter your key and press Login.",
     "loginButtonText": "Login",
     "adminButtonText": "Get Key",
-    "adminUrl": "https://t.me/your_channel"
+    "adminUrl": "https://fluffy-sprite-293346.netlify.app/"
   },
   "updateDialog": {
     "title": "Critical Update!",
@@ -19,7 +19,7 @@
     "downloadUrl": "https://example.com/app.apk",
     "showAdminButton": true,
     "adminButtonText": "Help",
-    "adminUrl": "https://t.me/your_channel"
+    "adminUrl": "https://fluffy-sprite-293346.netlify.app/"
   },
   "keys": {
     "VIP-USER": {
