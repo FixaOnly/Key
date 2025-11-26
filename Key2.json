@@ -10,7 +10,7 @@
     "tgChatId": "-10028934579684"
   },
   "security": {
-    "packageName": "com.Fixa.Only",
+    "packageName": "com.admin.fh",
     "killOnMismatch": true
   },
   "ui": {
